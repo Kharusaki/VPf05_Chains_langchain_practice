@@ -4,8 +4,6 @@
 !.env.example
 *token*.txt
 *token*.TXT
-*proxyapi*.txt
-*ProxyAPI*.txt
 *ключ*.txt
 *токен*.txt
 
@@ -26,20 +24,8 @@ __pycache__/
 venv/
 env/
 
-# Logs
-*.log
-
-# Generated files and user prompt libraries
-outputs/
-user_prompts/
-experiment_results.csv
 
 # Word and Office temporary files
 ~$*
 ~*.tmp
 
-# IDE and OS
-.idea/
-.vscode/
-.DS_Store
-Thumbs.db
